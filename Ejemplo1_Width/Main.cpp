@@ -7,6 +7,6 @@ int main(){
    cin >> n;
    cout.width(n);
    cout << "Hola mundo " ;
-   
+   system("pause");
     return 0;
 }
